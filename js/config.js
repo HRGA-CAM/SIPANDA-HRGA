@@ -5,7 +5,7 @@
  */
 window.APP_CONFIG = {
   // Tempel URL Web App Google Apps Script (berakhiran /exec)
-  GAS_URL: 'https://script.google.com/macros/s/GANTI_DENGAN_ID_DEPLOYMENT/exec',
+  GAS_URL: 'https://script.google.com/macros/s/AKfycbwIH0GX0XUfQyU3yIh5fKeRGqzsxyILTkLETgctczdqnyCI6Z1EJ9LgRjz8HCh9jMTVGQ/exec',
   // Opsional: Google OAuth Client ID (publik). Jika kosong, diambil dari server (Script Properties).
   GOOGLE_CLIENT_ID: '',
   APP_NAME: 'SIPANDA HRGA'
